@@ -61,6 +61,6 @@ pharmacy_sales_dataset.xlsx – Dataset used for analysis
 
 Pharmacy analysis by foramV2.pbix – Power BI dashboard file
 
-Pharmacy_dashboard.png - Screenshot of DAshboard
+Pharmacy_Dashboard.png - Screenshot of DAshboard
 
 README.md – Project documentation
