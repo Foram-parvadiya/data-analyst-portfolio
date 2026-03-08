@@ -1,4 +1,5 @@
 🚚 Delivery Performance Dashboard
+
 📌 Project Overview
 
 The Delivery Performance Dashboard is an interactive analytics project built using Power BI.
@@ -36,9 +37,10 @@ Prepared dataset for analysis in Power BI
 
 Power BI – Data visualization and dashboard creation
 
-Excel / CSV – Dataset storage and preprocessing
+CSV – Dataset storage and preprocessing
 
 Data Cleaning Techniques – Handling missing data and formatting
+
 
 📊 Dashboard Features
 
@@ -69,13 +71,6 @@ Detection of areas where delivery delays are more frequent
 Comparison of delivery efficiency across different segments
 
 These insights help decision-makers improve logistics strategies and optimize delivery operations.
-
-📷 Dashboard Preview
-
-(Add a screenshot of your Power BI dashboard here)
-
-Example format:
-
 
 
 
